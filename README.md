@@ -13,6 +13,7 @@ Tigrigna-Social-Media-Texts-Sentiment-Analysis/ <br>
 ├── TigSent_LSTM/                    # LSTM-based sentiment classification <br>
 ├── TigSent_XLM_R/                   # XLM-Roberta-based model (Transformer) <br>
 ├── TigSent_mBERT/                   # Multilingual BERT-based model <br>
+├── TigSent_LLaMA/                   # Multilingual Cross transfer model <br>
 ├── TigSen.xlsx               # Labeled dataset of Tigrigna texts <br>
 🔍 Project Objectives <br>
 - Fine-tune state-of-the-art NLP models to classify Tigrigna text sentiment as:
@@ -36,6 +37,7 @@ Tigrigna-Social-Media-Texts-Sentiment-Analysis/ <br>
 
   
   - Multilingual BERT (mBERT)
+  - Multilingual LLaMA
 
 📊 Dataset
 The dataset used is:
